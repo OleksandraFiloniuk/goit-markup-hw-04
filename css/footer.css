@@ -54,8 +54,7 @@ color: #fff;
 gap: 16px;
 }
 .footer-social-item {
-  width: calc((100% - 3 * 16px) / 4);
-
+  
 }
 .footer-social-link {
   display: flex;
